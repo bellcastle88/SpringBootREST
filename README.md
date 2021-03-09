@@ -12,7 +12,7 @@ Built with:
 
 ## Description
 
-This is a SpringBootREST. it has a function below : 
+It has a function below : 
 
 - Create user
 - Read user
