@@ -8,7 +8,7 @@ Built with:
 - Spring Boot
 - Hibernate
 - MySQL    
-- REST
+- REST API
 
 ## Description
 
