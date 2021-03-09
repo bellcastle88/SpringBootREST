@@ -10,6 +10,15 @@ Built with:
 - MySQL    
 - REST
 
+## Description
+
+This is a SpringBootREST. it has a function below : 
+
+- Create user
+- Read user
+- Update user
+- Delete user 
+
 ## Acknowledgments
 
 * [Chad Darby] https://www.udemy.com/course/spring-hibernate-tutorial/ 
