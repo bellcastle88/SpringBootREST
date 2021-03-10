@@ -14,10 +14,10 @@ Built with:
 
 It has a function below : 
 
-- Create user
-- Read user
-- Update user
-- Delete user 
+- Create 
+- Read 
+- Update 
+- Delete 
 
 ## Acknowledgments
 
