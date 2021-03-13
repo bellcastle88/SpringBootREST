@@ -19,6 +19,6 @@ It has a function below :
 - Update 
 - Delete 
 
-## Acknowledgments
+## Acknowledgments 
  
 * [Chad Darby] https://www.udemy.com/course/spring-hibernate-tutorial/ 
